@@ -1,3 +1,5 @@
+Only for personal usage , pls do not download or follow.
+
 # Parquet2
 
 [![dev](https://img.shields.io/badge/docs-latest-blue?style=for-the-badge&logo=julia)](https://ExpandingMan.gitlab.io/Parquet2.jl/)
