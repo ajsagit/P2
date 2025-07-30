@@ -1,0 +1,4 @@
+[deps]
+thrift = ""
+pyarrow = ""
+fastparquet = ""
